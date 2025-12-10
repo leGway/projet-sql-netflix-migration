@@ -60,6 +60,6 @@ Nous travaillons en méthode Agile simplifiée.
     * Mots clés SQL en MAJUSCULES (ex: `SELECT * FROM`).
 
 ## 📚 Ressources
-* [Enoncé du projet (PDF)](./Projet_SQL_MBDIA_2025.pdf)
+* [Enoncé du projet (PDF)](./CONSIGNES_PROJET.md)
 * [Documentation PostgreSQL](https://www.postgresql.org/docs/)
 * [Outil de diagramme (dbdiagram.io)](https://dbdiagram.io)
