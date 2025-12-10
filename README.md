@@ -20,11 +20,9 @@ Pour être efficaces, nous avons réparti les responsabilités techniques. Chacu
 
 ---
 
-<div align="center">
-  <a href="./mindmap_projet.svg">
-    <img src="./mindmap_projet.svg" width="100%" alt="Mind Map du Projet">
-  </a>
-</div>
+<p align="center">
+  <img src="./mindmap_projet.svg" width="1000" style="max-width: 100%; height: auto;">
+</p>
 
 ## 🗺️ Roadmap du Projet
 
