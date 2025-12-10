@@ -15,7 +15,7 @@ Pour être efficaces, nous avons réparti les responsabilités techniques. Chacu
 | :--- | :--- | :--- |
 | **Lead Architect** | *[Nom 1]* | Responsable du schéma de base de données (ERD), validation des clés étrangères et de la cohérence globale. Garante des "bonnes pratiques" SQL. |
 | **Data Engineers** | *[Nom 2], [Nom 3]* | Création des nouvelles tables (`CREATE TABLE`). **Crucial :** Génération des données fictives (Mock Data) pour avoir au moins 10 lignes cohérentes par table. |
-| **Data Analysts** | *[Clément], [Mathieu]* | Rédaction des requêtes d'exploitation (`SELECT`, `JOIN`, `GROUP BY`). Création des indicateurs de performance (KPIs) et rapports métiers. |
+| **Data Analysts** | *Clément, Mathieu* | Rédaction des requêtes d'exploitation (`SELECT`, `JOIN`, `GROUP BY`). Création des indicateurs de performance (KPIs) et rapports métiers. |
 | **Product Owner / Doc** | *[Nom 6]* | Gestion du livrable final (PDF) et de la présentation. Coordination de l'équipe et vérification de l'adéquation avec le besoin métier. |
 
 ---
