@@ -58,4 +58,4 @@
       Présentation : 15%
       Pertinence : 10%
       Documentation : 10%
-      Travail d'équipe : 10%```
+      Travail d'équipe : 10%
