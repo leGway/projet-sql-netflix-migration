@@ -19,11 +19,13 @@ Pour être efficaces, nous avons réparti les responsabilités techniques. Chacu
 | **Product Owner / Doc** | *[Nom 6]* | Gestion du livrable final (PDF) et de la présentation. Coordination de l'équipe et vérification de l'adéquation avec le besoin métier. |
 
 ---
+
 <div align="center">
   <a href="./mindmap_projet.svg">
     <img src="./mindmap_projet.svg" width="100%" alt="Mind Map du Projet">
   </a>
 </div>
+
 ## 🗺️ Roadmap du Projet
 
 Nous travaillons en méthode Agile simplifiée.
